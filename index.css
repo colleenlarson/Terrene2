@@ -1,3 +1,7 @@
 .jumbotron {
-    background: url(./landscape.jpg);
+    background-image: url("./landscape.jpg");
+    background-size: cover
+}
+.h {
+    text-align: center;
 }
